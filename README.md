@@ -26,13 +26,13 @@ This is a **Next.js** project bootstrapped with [`create-next-app`](https://gith
 
 Here are some screenshots of the project:
 
-- ![Screenshot 1](public/Screenshots/ss1.png)
-- ![Screenshot 2](public/Screenshots/ss2.png)
-- ![Screenshot 3](public/Screenshots/ss3.png)
-- ![Screenshot 4](public/Screenshots/ss4.png)
-- ![Screenshot 5](public/Screenshots/ss5.png)
-- ![Screenshot 6](public/Screenshots/ss6.png)
-
+![image alt](https://github.com/Silent-Child13/amicares/blob/4b4f9aee6ec15a75128c74d93c4274d8487189cf/amicares/public/Screenshots/photo-collage.png.png)
+![iamge alt](https://github.com/Silent-Child13/amicares/blob/79f9476f4eab54296e29d8ff4b120cefb5072eb2/amicares/public/Screenshots/ss1.png)
+![iamge alt](https://github.com/Silent-Child13/amicares/blob/79f9476f4eab54296e29d8ff4b120cefb5072eb2/amicares/public/Screenshots/ss2.png)
+![iamge alt](https://github.com/Silent-Child13/amicares/blob/79f9476f4eab54296e29d8ff4b120cefb5072eb2/amicares/public/Screenshots/ss3.png)
+![iamge alt](https://github.com/Silent-Child13/amicares/blob/79f9476f4eab54296e29d8ff4b120cefb5072eb2/amicares/public/Screenshots/ss4.png)
+![iamge alt](https://github.com/Silent-Child13/amicares/blob/79f9476f4eab54296e29d8ff4b120cefb5072eb2/amicares/public/Screenshots/ss5.png)
+![iamge alt](https://github.com/Silent-Child13/amicares/blob/79f9476f4eab54296e29d8ff4b120cefb5072eb2/amicares/public/Screenshots/ss6.png)
 ---
 
 ## 🛠 **Getting Started**
