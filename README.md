@@ -26,7 +26,6 @@ This is a **Next.js** project bootstrapped with [`create-next-app`](https://gith
 
 Here are some screenshots of the project:
 
-![image alt](https://github.com/Silent-Child13/amicares/blob/4b4f9aee6ec15a75128c74d93c4274d8487189cf/amicares/public/Screenshots/photo-collage.png.png)
 ![iamge alt](https://github.com/Silent-Child13/amicares/blob/79f9476f4eab54296e29d8ff4b120cefb5072eb2/amicares/public/Screenshots/ss1.png)
 ![iamge alt](https://github.com/Silent-Child13/amicares/blob/79f9476f4eab54296e29d8ff4b120cefb5072eb2/amicares/public/Screenshots/ss2.png)
 ![iamge alt](https://github.com/Silent-Child13/amicares/blob/79f9476f4eab54296e29d8ff4b120cefb5072eb2/amicares/public/Screenshots/ss3.png)
